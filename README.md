@@ -24,3 +24,4 @@
 </ol>
 
 <pre class="brush:as3;">
+http://klondike-studio.ru/useful_materials/standartnyy-htaccess/
